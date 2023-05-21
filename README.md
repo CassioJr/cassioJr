@@ -20,5 +20,5 @@
 ##
  
 <div style="text-center">
-  <a href="https://www.linkedin.com/in/cassio-ceolin-j%C3%BAnior-8637ba19b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/cassio-ceolin-junior-8637ba19b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Cassio Ceolin Junior!
 
-- 🌱 I'm currently studying Software Engineering in UNIPAMPA 
+- 🌱 I have a degree in Software Engineering
+- 🌱 I'm currently doing my master's degree in Software Engineering 
 
 ![cassioJr's GitHub stats](https://github-readme-stats.vercel.app/api?username=cassioJr&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassioJr&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
